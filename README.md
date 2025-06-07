@@ -1,4 +1,4 @@
-**# Intro-to-Quant-Finance-in-R
+Intro-to-Quant-Finance-in-R
 Main Concepts Used: Quantmod, log vs simple return, Sharpe ratio, etc.
 # Stock Return Analysis in R 📈
 
